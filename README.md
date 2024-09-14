@@ -18,4 +18,4 @@ Deployed on Vercel :
    <b>npm create-next-app@latest ./</b>
    (setup TypeScript. ESlint, TailwingCSS, AppRounter)
 
-2. <b>Using Aceternity UI</b>
+2. <b>Using Next.js , Aceternity UI , Framer Motion , Three.js , TailwindCSS</b>
