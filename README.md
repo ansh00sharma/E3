@@ -7,9 +7,9 @@ Start Date : 13th September 2024
 
 Excepted Completion Date : 20th September 2024
 
-Completed On : --- 
+Completed On : --- 15th September
 
-Deployed on Vercel : 
+Deployed on Vercel : https://portfolio-3zf35v2d0-anshs-projects-bb045bfd.vercel.app/
 
 ---------------------------------------------------------------------------------------------------------
 
